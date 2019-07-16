@@ -32,7 +32,7 @@ This data set contains information about 10,000 movies collected from The Movie 
 * [Git for windows - for terminal application using Git Bash](https://gitforwindows.org/)
 * [Python using Anaconda (latest version for windows)](https://www.anaconda.com/distribution/)
 * [Visual Studio Code Editor (for windows)](https://code.visualstudio.com/docs/setup/windows)
-:
+
 
 ## References:
 1. [TMDB Movies Datasets](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
